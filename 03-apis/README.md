@@ -88,6 +88,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Tianchen - [Bored API](https://comfortable-drink-522.notion.site/Blog3-3e29066e2c7880a08560f84714be96c0?source=copy_link)
 - Jua - [NYC Weather](https://app.notion.com/p/Week-3-3e46da1aec62809db2f2fd75e4267823)
 - Seeha - [Redefine](https://app.notion.com/p/Assignment-3_Redefine-3dcff69c6b358029b705dfb325f9fe40?source=copy_link)
+- Sol - [Disappearing Dictionary](https://solleedesign25.notion.site/A-Z-W3-Assignment-Sol-3e4513525be880b1bbe5fd72765e7ebd)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
