@@ -130,6 +130,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Kwan - [CAT](https://app.notion.com/p/kkkwan-The-Bot-40070ff9c53880349de9e2fd0ddbc258?source=copy_link)
 - Jingyi - [video editing assistant] https://jingyi-1013.github.io/video-editing-assistant/ 
 ## Emoji Key for Video Tutorials, Readings, and more
+- Sol - [EverythingBotBagel](https://app.notion.com/p/solleedesign25/A-Z-Bot-Project-Sol-Everything-bot-bagel-400513525be881f38193fb261be8a8f3?source=copy_link)
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you already know this material, you can skip.
 - 🔢 This is found in a group, maybe pick just one to check out!
